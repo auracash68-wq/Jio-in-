@@ -1,0 +1,6 @@
+{
+  "name": "Docs Scanner",
+  "description": "100% Offline Exam Form Resizer, Exact KB Compressor, ID Card Merger & Regional OCR Scanner for South Asia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

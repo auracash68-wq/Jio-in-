@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Scanner Corner Brackets in Light Mint -->
+    <!-- Top Left Corner -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M30,38 L30,30 L38,30"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Top Right Corner -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M70,30 L78,30 L78,38"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Bottom Left Corner -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M30,70 L30,78 L38,78"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Bottom Right Corner -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M70,78 L78,78 L78,70"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Document Page inside (white sheet with folded top-right corner) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,36 L64,36 L72,44 L72,72 L36,72 Z" />
+    <!-- Folded Corner Triangle -->
+    <path
+        android:fillColor="#CFEAE7"
+        android:pathData="M64,36 L64,44 L72,44 Z" />
+
+    <!-- Text Lines on Document -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M42,47 L60,47 M42,53 L66,53 M42,59 L58,59 M42,65 L64,65"
+        android:strokeColor="#087F75"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <!-- Scanning Laser Line across center with glow -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M26,54 L82,54"
+        android:strokeColor="#80E8DD"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+</vector>
